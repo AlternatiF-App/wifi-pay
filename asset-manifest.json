@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wifi-pay/static/css/main.df18d1fa.chunk.css",
+    "main.js": "/wifi-pay/static/js/main.d4762108.chunk.js",
+    "main.js.map": "/wifi-pay/static/js/main.d4762108.chunk.js.map",
+    "runtime-main.js": "/wifi-pay/static/js/runtime-main.a660e101.js",
+    "runtime-main.js.map": "/wifi-pay/static/js/runtime-main.a660e101.js.map",
+    "static/js/2.c1ccd39c.chunk.js": "/wifi-pay/static/js/2.c1ccd39c.chunk.js",
+    "static/js/2.c1ccd39c.chunk.js.map": "/wifi-pay/static/js/2.c1ccd39c.chunk.js.map",
+    "static/js/3.6fb1c393.chunk.js": "/wifi-pay/static/js/3.6fb1c393.chunk.js",
+    "static/js/3.6fb1c393.chunk.js.map": "/wifi-pay/static/js/3.6fb1c393.chunk.js.map",
+    "index.html": "/wifi-pay/index.html",
+    "static/css/main.df18d1fa.chunk.css.map": "/wifi-pay/static/css/main.df18d1fa.chunk.css.map",
+    "static/js/2.c1ccd39c.chunk.js.LICENSE.txt": "/wifi-pay/static/js/2.c1ccd39c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a660e101.js",
+    "static/js/2.c1ccd39c.chunk.js",
+    "static/css/main.df18d1fa.chunk.css",
+    "static/js/main.d4762108.chunk.js"
+  ]
+}
