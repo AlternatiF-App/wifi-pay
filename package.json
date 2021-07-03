@@ -2,7 +2,7 @@
   "name": "wifi-pay",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/wifi-pay",
+  "homepage": "http://AlternatiF-App.github.io/wifi-pay",
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@headlessui/react": "^1.3.0",
