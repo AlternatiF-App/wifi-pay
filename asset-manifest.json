@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wifi-pay/static/css/main.df18d1fa.chunk.css",
-    "main.js": "/wifi-pay/static/js/main.d4762108.chunk.js",
-    "main.js.map": "/wifi-pay/static/js/main.d4762108.chunk.js.map",
-    "runtime-main.js": "/wifi-pay/static/js/runtime-main.a660e101.js",
-    "runtime-main.js.map": "/wifi-pay/static/js/runtime-main.a660e101.js.map",
-    "static/js/2.c1ccd39c.chunk.js": "/wifi-pay/static/js/2.c1ccd39c.chunk.js",
-    "static/js/2.c1ccd39c.chunk.js.map": "/wifi-pay/static/js/2.c1ccd39c.chunk.js.map",
-    "static/js/3.6fb1c393.chunk.js": "/wifi-pay/static/js/3.6fb1c393.chunk.js",
-    "static/js/3.6fb1c393.chunk.js.map": "/wifi-pay/static/js/3.6fb1c393.chunk.js.map",
+    "main.css": "/wifi-pay/static/css/main.df69928b.chunk.css",
+    "main.js": "/wifi-pay/static/js/main.56ccdd7a.chunk.js",
+    "main.js.map": "/wifi-pay/static/js/main.56ccdd7a.chunk.js.map",
+    "runtime-main.js": "/wifi-pay/static/js/runtime-main.6e8bf622.js",
+    "runtime-main.js.map": "/wifi-pay/static/js/runtime-main.6e8bf622.js.map",
+    "static/js/2.38b0e4a1.chunk.js": "/wifi-pay/static/js/2.38b0e4a1.chunk.js",
+    "static/js/2.38b0e4a1.chunk.js.map": "/wifi-pay/static/js/2.38b0e4a1.chunk.js.map",
+    "static/js/3.26056c7f.chunk.js": "/wifi-pay/static/js/3.26056c7f.chunk.js",
+    "static/js/3.26056c7f.chunk.js.map": "/wifi-pay/static/js/3.26056c7f.chunk.js.map",
     "index.html": "/wifi-pay/index.html",
-    "static/css/main.df18d1fa.chunk.css.map": "/wifi-pay/static/css/main.df18d1fa.chunk.css.map",
-    "static/js/2.c1ccd39c.chunk.js.LICENSE.txt": "/wifi-pay/static/js/2.c1ccd39c.chunk.js.LICENSE.txt"
+    "static/css/main.df69928b.chunk.css.map": "/wifi-pay/static/css/main.df69928b.chunk.css.map",
+    "static/js/2.38b0e4a1.chunk.js.LICENSE.txt": "/wifi-pay/static/js/2.38b0e4a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a660e101.js",
-    "static/js/2.c1ccd39c.chunk.js",
-    "static/css/main.df18d1fa.chunk.css",
-    "static/js/main.d4762108.chunk.js"
+    "static/js/runtime-main.6e8bf622.js",
+    "static/js/2.38b0e4a1.chunk.js",
+    "static/css/main.df69928b.chunk.css",
+    "static/js/main.56ccdd7a.chunk.js"
   ]
 }
